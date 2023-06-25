@@ -1,0 +1,350 @@
+self<<<<>>>>VAR_4<<<<>>>>self<<<<>>>>VAR_3<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>; METHOD_2 ( )<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>|| VAR_2<<<<>>>>self
+self<<<<>>>>getId ( )<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>this .<<<<>>>>self<<<<>>>>this .<<<<>>>>self
+self<<<<>>>>super . METHOD_1 ( VAR_1 )<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>getContext ( )<<<<>>>>self
+self<<<<>>>>super . METHOD_1 ( VAR_1 )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_6<<<<>>>>self<<<<>>>>METHOD_5<<<<>>>>self
+self<<<<>>>>( VAR_3 )<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>getActivity ( )<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>java.util.Map < java.lang.String , java.lang.String ><<<<>>>>self
+self<<<<>>>>size ( )<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>java.lang.Long<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>final<<<<>>>>self<<<<>>>>final<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>>=<<<<>>>>self<<<<>>>>>=<<<<>>>>self
+self<<<<>>>>( this .<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>VAR_1 . toString ( )<<<<>>>>self
+self<<<<>>>>writer<<<<>>>>self
+self<<<<>>>>start<<<<>>>>self<<<<>>>>METHOD_1<<<<>>>>self
+self<<<<>>>>null : this .<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>STRING_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>STRING_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>null<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>getConfig ( )<<<<>>>>self
+self<<<<>>>>value<<<<>>>>self<<<<>>>>this .<<<<>>>>self<<<<>>>>value<<<<>>>>self
+public<<<<>>>>self<<<<>>>>handle<<<<>>>>self
+self<<<<>>>>VAR_1 . METHOD_2 ( )<<<<>>>>self
+self<<<<>>>>new java.util.Date ( )<<<<>>>>self
+self<<<<>>>>- (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>if<<<<>>>>self
+self<<<<>>>>VAR_1 , VAR_2<<<<>>>>self
+self<<<<>>>>long<<<<>>>>self<<<<>>>>java.lang.Math.round<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>this .<<<<>>>>self<<<<>>>>this .<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>boolean .<<<<>>>>self
+self<<<<>>>>VAR_1 , VAR_2<<<<>>>>self
+self<<<<>>>>java.lang.Integer<<<<>>>>self<<<<>>>>[<<<<>>>>self<<<<>>>>]<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>return METHOD_1<<<<>>>>self<<<<>>>>size ( ) , c<<<<>>>>self
+self<<<<>>>>METHOD_1<<<<>>>>self
+self<<<<>>>>id ( )<<<<>>>>self
+self<<<<>>>>METHOD_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>java.util.Set<<<<>>>>self<<<<>>>>java.util.HashSet<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>+ 1<<<<>>>>self
+self<<<<>>>>toString<<<<>>>>self<<<<>>>>toString<<<<>>>>self
+self<<<<>>>>VAR_1 . size ( )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>java.util.List<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>name ( )<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+private<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>offset<<<<>>>>self<<<<>>>>length<<<<>>>>self
+self<<<<>>>>< java.lang.Void ><<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>!=<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_1 . item<<<<>>>>self
+self<<<<>>>>(<<<<>>>>self<<<<>>>>+ 1 )<<<<>>>>self
+self<<<<>>>>return<<<<>>>>self<<<<>>>>answer . intValue (<<<<>>>>self<<<<>>>>) == 0<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>contains<<<<>>>>self<<<<>>>>contains<<<<>>>>self
+self<<<<>>>>id<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>toString<<<<>>>>self
+self<<<<>>>>( ! ( VAR_2 ) )<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>{ }
+self<<<<>>>>getId ( )<<<<>>>>self
+self<<<<>>>>this .<<<<>>>>self<<<<>>>>this .<<<<>>>>self<<<<>>>>this .<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>+<<<<>>>>self
+self<<<<>>>>names<<<<>>>>self<<<<>>>>names<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>long<<<<>>>>self<<<<>>>>return<<<<>>>>self
+self<<<<>>>>METHOD_5<<<<>>>>self<<<<>>>>METHOD_4<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>(<<<<>>>>self<<<<>>>>- 1 )<<<<>>>>self
+self<<<<>>>>0 , new java.util.ArrayList < java.lang.String > ( )<<<<>>>>self
+self<<<<>>>>build<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>x<<<<>>>>self<<<<>>>>y<<<<>>>>self<<<<>>>>y<<<<>>>>self<<<<>>>>x<<<<>>>>self
+self<<<<>>>>{ i = 0 ;<<<<>>>>self<<<<>>>>}<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_5<<<<>>>>self<<<<>>>>==<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>}<<<<>>>>self
+self<<<<>>>>java.lang.String VAR_1<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_1 ( VAR_1 , VAR_2 , VAR_4 )<<<<>>>>self
+self<<<<>>>>java.lang.String VAR_2<<<<>>>>self<<<<>>>>index<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>index<<<<>>>>self<<<<>>>>toString<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>java.util.HashSet < TYPE_1 ><<<<>>>>self
+public<<<<>>>>self<<<<>>>>execute<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>, 0<<<<>>>>self<<<<>>>>, 0<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>VAR_1 =<<<<>>>>self<<<<>>>>super . METHOD_1 (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>1<<<<>>>>self<<<<>>>><=<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>INT_1<<<<>>>>self
+self<<<<>>>>getId<<<<>>>>self<<<<>>>>id<<<<>>>>self
+self<<<<>>>>java.util.Random<<<<>>>>self<<<<>>>>java.util.Random<<<<>>>>self
+self<<<<>>>>this . VAR_1<<<<>>>>self
+protected<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>{ }
+self<<<<>>>>self<<<<>>>>self<<<<>>>>{ }
+self<<<<>>>>. equals<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>VAR_3 . METHOD_4 ( ) ; VAR_2 . METHOD_3 ( ) ; METHOD_2 ( STRING_1 ) ;<<<<>>>>self
+self<<<<>>>>getName<<<<>>>>self<<<<>>>>new java.lang.String<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>start<<<<>>>>self<<<<>>>>end<<<<>>>>self
+self<<<<>>>>VAR_2 ,<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>getActivity ( )<<<<>>>>self
+self<<<<>>>>VAR_1 . toString ( )<<<<>>>>self
+self<<<<>>>>( VAR_1 . length ( ) )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>java.util.Calendar.getInstance ( )<<<<>>>>self
+self<<<<>>>>CHAR_2<<<<>>>>self
+self<<<<>>>>1<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>{ }
+self<<<<>>>>0<<<<>>>>self<<<<>>>>1<<<<>>>>self
+self<<<<>>>>getData ( )<<<<>>>>self
+self<<<<>>>>getId ( )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>--<<<<>>>>self
+self<<<<>>>>c<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>VAR_1 . METHOD_1<<<<>>>>self
+self<<<<>>>>getId ( )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>TYPE_2<<<<>>>>self<<<<>>>>TYPE_2<<<<>>>>self
+self<<<<>>>>null<<<<>>>>self<<<<>>>>null ; result = null<<<<>>>>self<<<<>>>>"0"<<<<>>>>self
+self<<<<>>>>( (<<<<>>>>self<<<<>>>>) - 1 )<<<<>>>>self
+self<<<<>>>>y<<<<>>>>self<<<<>>>>x<<<<>>>>self
+self<<<<>>>>( ( TYPE_1 ) ( getActivity ( ) ) )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>boolean<<<<>>>>self<<<<>>>>, VAR_3<<<<>>>>self
+public<<<<>>>>self<<<<>>>>handle<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>>=<<<<>>>>self
+self<<<<>>>>else<<<<>>>>self<<<<>>>>-<<<<>>>>self
+self<<<<>>>>className<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>className<<<<>>>>self<<<<>>>>className ,<<<<>>>>self
+self<<<<>>>>VAR_1 . getId<<<<>>>>self
+self<<<<>>>>event<<<<>>>>self
+self<<<<>>>>VAR_4 [ VAR_1 ] . length<<<<>>>>self<<<<>>>>VAR_3<<<<>>>>self
+self<<<<>>>>final<<<<>>>>self<<<<>>>>final<<<<>>>>self<<<<>>>>this<<<<>>>>self
+self<<<<>>>>put<<<<>>>>self<<<<>>>>put<<<<>>>>self
+public<<<<>>>>self<<<<>>>>execute<<<<>>>>self<<<<>>>>self<<<<>>>>self
+protected<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+public<<<<>>>>self<<<<>>>>size<<<<>>>>self<<<<>>>>size<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>VAR_1 . size ( )<<<<>>>>self
+self<<<<>>>>final<<<<>>>>self<<<<>>>>new java.util.ArrayList < TYPE_1 > ( )<<<<>>>>self
+self<<<<>>>>android.content.Intent<<<<>>>>self<<<<>>>>android.content.Intent<<<<>>>>self
+self<<<<>>>>}<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>false<<<<>>>>self
+self<<<<>>>>&&<<<<>>>>self
+self<<<<>>>><<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>. get<<<<>>>>self
+self<<<<>>>>super . METHOD_1<<<<>>>>self
+self<<<<>>>>this .<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>float<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>return<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>java.lang.String<<<<>>>>self
+self<<<<>>>>java.lang.Integer<<<<>>>>self<<<<>>>>java.lang.Double<<<<>>>>self<<<<>>>>java.lang.Integer<<<<>>>>self<<<<>>>>java.lang.Double<<<<>>>>self
+self<<<<>>>>METHOD_3 ( )<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>getInt ( STRING_1 )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>int<<<<>>>>self<<<<>>>>position<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>0<<<<>>>>self<<<<>>>>null<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_4 . getContext ( )<<<<>>>>self
+self<<<<>>>>( ( VAR_2 . size ( ) ) - 1 )<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>TYPE_1 . METHOD_2 ( )<<<<>>>>self
+self<<<<>>>>( ( VAR_1 . size ( ) ) - 1 )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_6<<<<>>>>self<<<<>>>>VAR_5<<<<>>>>self
+self<<<<>>>>false<<<<>>>>self
+self<<<<>>>>new android.content.Intent<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>path<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>METHOD_1<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>abstract<<<<>>>>self<<<<>>>>;
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>if ( ( VAR_2 ) != null )<<<<>>>>self<<<<>>>>if ( ( VAR_3 ) != null )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>if ( ( VAR_1 ) != null ) {<<<<>>>>self
+self<<<<>>>>getType ( )<<<<>>>>self
+self<<<<>>>>METHOD_1<<<<>>>>self<<<<>>>>METHOD_1<<<<>>>>self
+self<<<<>>>>METHOD_1 ( VAR_1 , METHOD_2 ( ) , METHOD_3 ( ) )<<<<>>>>self
+self<<<<>>>>TYPE_2 . METHOD_2 ( )<<<<>>>>self
+self<<<<>>>>name<<<<>>>>self<<<<>>>>compareTo<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>( ( java.lang.Object ) ( null ) )<<<<>>>>self
+self<<<<>>>>boolean<<<<>>>>self<<<<>>>>return<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>TYPE_4<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>y<<<<>>>>self<<<<>>>>x<<<<>>>>self
+self<<<<>>>>null<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>( VAR_2 ) != null ?<<<<>>>>self<<<<>>>>: 0<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>METHOD_2<<<<>>>>self<<<<>>>>METHOD_1<<<<>>>>self
+self<<<<>>>>float<<<<>>>>self<<<<>>>>java.lang.Float<<<<>>>>self
+self<<<<>>>>VAR_2 [ 0 ]<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>info<<<<>>>>self
+self<<<<>>>>METHOD_1 ( )<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>remove<<<<>>>>self<<<<>>>>remove<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>[<<<<>>>>self<<<<>>>>]<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>double<<<<>>>>self<<<<>>>>double<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>TYPE_4<<<<>>>>self<<<<>>>>TYPE_3<<<<>>>>self
+self<<<<>>>>METHOD_2 ( ) . METHOD_3<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>0<<<<>>>>self<<<<>>>>0<<<<>>>>self
+self<<<<>>>>INT_4<<<<>>>>self<<<<>>>>INT_4<<<<>>>>self<<<<>>>>INT_4<<<<>>>>self<<<<>>>>INT_4<<<<>>>>self<<<<>>>>0<<<<>>>>self
+self<<<<>>>>( VAR_2 ) != null<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>java.util.List<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>java.util.Calendar.getInstance ( )<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>getName<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>( ( VAR_2 ) / ( VAR_1 ) )<<<<>>>>self
+self<<<<>>>>new TYPE_1 (<<<<>>>>self<<<<>>>>. getTime ( ) )<<<<>>>>self
+self<<<<>>>>METHOD_2 ( )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>content<<<<>>>>self<<<<>>>>title<<<<>>>>self
+self<<<<>>>>tmp . y<<<<>>>>self
+self<<<<>>>>true<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>(<<<<>>>>self<<<<>>>>+ 1 )<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>context<<<<>>>>self
+self<<<<>>>>new java.util.HashMap < > (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>TYPE_1 response =<<<<>>>>self<<<<>>>>response<<<<>>>>self
+self<<<<>>>>android.content.Context<<<<>>>>self<<<<>>>>TYPE_4 . context<<<<>>>>self<<<<>>>>( ( TYPE_2 ) ( TYPE_4 . context ) )<<<<>>>>self
+self<<<<>>>>y<<<<>>>>self<<<<>>>>x<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>( id != null ) && (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>param<<<<>>>>self
+self<<<<>>>>new java.lang.String (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>( -<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>( VAR_1 ) != null ?<<<<>>>>self<<<<>>>>: new int [ 0 ]<<<<>>>>self
+self<<<<>>>>METHOD_5<<<<>>>>self<<<<>>>>METHOD_4<<<<>>>>self
+self<<<<>>>>getConfig ( )<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>format , java.lang.Object ... args<<<<>>>>self<<<<>>>>format , args<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>getClass ( ) . getName ( )<<<<>>>>self
+self<<<<>>>>void<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>boolean<<<<>>>>self<<<<>>>>return<<<<>>>>self
+self<<<<>>>>><<<<>>>>self<<<<>>>><<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>abstract<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>this . VAR_1<<<<>>>>self
+self<<<<>>>>VAR_2<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>( (<<<<>>>>self<<<<>>>>)<<<<>>>>self<<<<>>>>super . METHOD_1 ( ) )<<<<>>>>self
+self<<<<>>>>this .<<<<>>>>self
+self<<<<>>>>getName ( ) . get<<<<>>>>self
+self<<<<>>>>. equals<<<<>>>>self
+self<<<<>>>>METHOD_3<<<<>>>>self<<<<>>>>METHOD_2<<<<>>>>self
+public static<<<<>>>>self<<<<>>>>new java.util.Random ( )<<<<>>>>self
+self<<<<>>>>int [ ]<<<<>>>>self<<<<>>>>int [ ]<<<<>>>>self<<<<>>>>int [ ]<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>this . show<<<<>>>>self
+self<<<<>>>>y<<<<>>>>self<<<<>>>>x<<<<>>>>self
+self<<<<>>>>VAR_2 . get ( VAR_1 )<<<<>>>>self
+self<<<<>>>>node<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>nodes<<<<>>>>self
+self<<<<>>>>VAR_3<<<<>>>>self<<<<>>>>VAR_2<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>this . VAR_1<<<<>>>>self
+self<<<<>>>>( this . id ) - ( VAR_1 . id )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>name<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>( VAR_3 ) != null ?<<<<>>>>self<<<<>>>>: null<<<<>>>>self
+self<<<<>>>>assertEquals<<<<>>>>self<<<<>>>>,<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>getContext ( )<<<<>>>>self
+self<<<<>>>>VAR_2 . size ( )<<<<>>>>self
+self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self<<<<>>>>VAR_1<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>1<<<<>>>>self
+self<<<<>>>><<<<<>>>>self
+private<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>0<<<<>>>>self
+self<<<<>>>>||<<<<>>>>self<<<<>>>>==<<<<>>>>self
+self<<<<>>>>fieldName<<<<>>>>self<<<<>>>>fieldName<<<<>>>>self
+self<<<<>>>>java.lang.String<<<<>>>>self<<<<>>>>new java.io.File (<<<<>>>>self<<<<>>>>)<<<<>>>>self
+self<<<<>>>>VAR_1 . id<<<<>>>>self
+self<<<<>>>>( - 1 )<<<<>>>>self
+self<<<<>>>>METHOD_4<<<<>>>>self<<<<>>>>METHOD_3<<<<>>>>self
+self<<<<>>>>- 1<<<<>>>>self
+self<<<<>>>>boolean<<<<>>>>self<<<<>>>>return<<<<>>>>self
+self<<<<>>>>self<<<<>>>>self<<<<>>>>self<<<<>>>>self
+self<<<<>>>>METHOD_1<<<<>>>>self
